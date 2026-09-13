@@ -1,0 +1,11 @@
+{
+  "name": "DrawCoach AI",
+  "description": "Free interactive drawing tutor for iPadOS and iOS featuring step-by-step Simply Draw mechanics, digital canvas, paper camera scanning, and Gemini AI Art Coach.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
